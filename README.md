@@ -1,6 +1,6 @@
 # Meme Generator
 
-<img src="https://user-images.githubusercontent.com/86844932/217781755-2a96fc04-7134-4b76-9989-cfb82daea08e.png" alt="Meme Generator Impression"/>
+<img src="https://user-images.githubusercontent.com/86844932/217782710-40a5a587-d7e0-44f3-80e6-399745ebf9f4.png" alt="Meme Generator Impression"/>
 
 ## Description
 
