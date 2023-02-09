@@ -12,17 +12,6 @@ In this project I created an interactive web app in React using functional progr
 
 **As a user, I would like to enter the text, that immediately shows up at the top and at the bottom of the image.**
 
-## Use it live
-
-
-<table>
-<tr>
-<td>
-<img src="https://user-images.githubusercontent.com/99111208/163397361-5126a0ff-a116-4a57-9773-c1878285b045.svg" alt="Heroku icon" width="30">
- </td>
-</tr>
-</table>
-
 ## Learnings
 
 * event listeners
