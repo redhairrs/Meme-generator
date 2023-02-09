@@ -1,0 +1,5 @@
+node_modules
+.idea
+unused_CRAcomponents
+.DS_Store
+_not_public
